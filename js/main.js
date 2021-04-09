@@ -1,2 +1,2 @@
 
-alert('Hola mundo, este es un curso de GIT');
+alert('Hola mundo, este es un curso de GIT, prueba1');
